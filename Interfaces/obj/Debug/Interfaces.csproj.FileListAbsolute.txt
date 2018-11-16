@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\mario\source\repos\ConsoleApp3\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\mario\source\repos\ConsoleApp3\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\mario\source\repos\ConsoleApp3\Interfaces\obj\Debug\Interfaces.pdb

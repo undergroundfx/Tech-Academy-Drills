@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\mario\source\repos\ConsoleApp3\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\mario\source\repos\ConsoleApp3\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\mario\source\repos\ConsoleApp3\Inheritance\obj\Debug\Inheritance.pdb

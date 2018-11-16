@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\enum\bin\Debug\@enum.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\enum\bin\Debug\@enum.exe
+C:\Users\mario\source\repos\ConsoleApp3\enum\bin\Debug\@enum.pdb
+C:\Users\mario\source\repos\ConsoleApp3\enum\obj\Debug\enum.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\enum\obj\Debug\@enum.exe
+C:\Users\mario\source\repos\ConsoleApp3\enum\obj\Debug\@enum.pdb

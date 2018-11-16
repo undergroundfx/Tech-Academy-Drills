@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\Methods1\bin\Debug\Methods1.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\Methods1\bin\Debug\Methods1.exe
+C:\Users\mario\source\repos\ConsoleApp3\Methods1\bin\Debug\Methods1.pdb
+C:\Users\mario\source\repos\ConsoleApp3\Methods1\obj\Debug\Methods1.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\Methods1\obj\Debug\Methods1.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\Methods1\obj\Debug\Methods1.exe
+C:\Users\mario\source\repos\ConsoleApp3\Methods1\obj\Debug\Methods1.pdb
