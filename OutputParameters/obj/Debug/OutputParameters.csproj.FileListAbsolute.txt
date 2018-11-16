@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\OutputParameters\bin\Debug\OutputParameters.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\OutputParameters\bin\Debug\OutputParameters.exe
+C:\Users\mario\source\repos\ConsoleApp3\OutputParameters\bin\Debug\OutputParameters.pdb
+C:\Users\mario\source\repos\ConsoleApp3\OutputParameters\obj\Debug\OutputParameters.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\OutputParameters\obj\Debug\OutputParameters.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\OutputParameters\obj\Debug\OutputParameters.exe
+C:\Users\mario\source\repos\ConsoleApp3\OutputParameters\obj\Debug\OutputParameters.pdb

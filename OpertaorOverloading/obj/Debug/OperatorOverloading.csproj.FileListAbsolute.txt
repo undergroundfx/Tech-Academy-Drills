@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\OpertaorOverloading\bin\Debug\OpertaorOverloading.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\OpertaorOverloading\bin\Debug\OpertaorOverloading.exe
+C:\Users\mario\source\repos\ConsoleApp3\OpertaorOverloading\bin\Debug\OpertaorOverloading.pdb
+C:\Users\mario\source\repos\ConsoleApp3\OpertaorOverloading\obj\Debug\OperatorOverloading.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\OpertaorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\OpertaorOverloading\obj\Debug\OpertaorOverloading.exe
+C:\Users\mario\source\repos\ConsoleApp3\OpertaorOverloading\obj\Debug\OpertaorOverloading.pdb

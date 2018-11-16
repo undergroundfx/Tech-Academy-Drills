@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\TryCatch2\bin\Debug\TryCatch2.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\TryCatch2\bin\Debug\TryCatch2.exe
+C:\Users\mario\source\repos\ConsoleApp3\TryCatch2\bin\Debug\TryCatch2.pdb
+C:\Users\mario\source\repos\ConsoleApp3\TryCatch2\obj\Debug\TryCatch2.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\TryCatch2\obj\Debug\TryCatch2.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\TryCatch2\obj\Debug\TryCatch2.exe
+C:\Users\mario\source\repos\ConsoleApp3\TryCatch2\obj\Debug\TryCatch2.pdb

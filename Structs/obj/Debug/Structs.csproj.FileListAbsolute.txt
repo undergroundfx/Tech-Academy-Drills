@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\Structs\bin\Debug\Structs.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\Structs\bin\Debug\Structs.exe
+C:\Users\mario\source\repos\ConsoleApp3\Structs\bin\Debug\Structs.pdb
+C:\Users\mario\source\repos\ConsoleApp3\Structs\obj\Debug\Structs.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\Structs\obj\Debug\Structs.exe
+C:\Users\mario\source\repos\ConsoleApp3\Structs\obj\Debug\Structs.pdb
