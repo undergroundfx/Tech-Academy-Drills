@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\DateTime\bin\Debug\DateTime.exe
+C:\Users\mario\source\repos\ConsoleApp3\DateTime\bin\Debug\DateTime.pdb
+C:\Users\mario\source\repos\ConsoleApp3\DateTime\obj\Debug\DateTime.exe
+C:\Users\mario\source\repos\ConsoleApp3\DateTime\obj\Debug\DateTime.pdb
+C:\Users\mario\source\repos\ConsoleApp3\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache

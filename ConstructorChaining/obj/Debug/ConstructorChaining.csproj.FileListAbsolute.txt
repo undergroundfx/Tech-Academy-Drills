@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\ConstructorChaining\bin\Debug\ConstructorChaining.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\ConstructorChaining\bin\Debug\ConstructorChaining.exe
+C:\Users\mario\source\repos\ConsoleApp3\ConstructorChaining\bin\Debug\ConstructorChaining.pdb
+C:\Users\mario\source\repos\ConsoleApp3\ConstructorChaining\obj\Debug\ConstructorChaining.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\ConstructorChaining\obj\Debug\ConstructorChaining.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\ConstructorChaining\obj\Debug\ConstructorChaining.exe
+C:\Users\mario\source\repos\ConsoleApp3\ConstructorChaining\obj\Debug\ConstructorChaining.pdb
