@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ConsoleApp3\ClassesDrill\obj\Debug\ClassesDrill.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\ConsoleApp3\ClassesDrill\obj\Debug\ClassesDrill.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConsoleApp3\ClassesDrill\bin\Debug\ClassesDrill.exe.config
+C:\Users\mario\source\repos\ConsoleApp3\ClassesDrill\bin\Debug\ClassesDrill.exe
+C:\Users\mario\source\repos\ConsoleApp3\ClassesDrill\bin\Debug\ClassesDrill.pdb
+C:\Users\mario\source\repos\ConsoleApp3\ClassesDrill\obj\Debug\ClassesDrill.exe
+C:\Users\mario\source\repos\ConsoleApp3\ClassesDrill\obj\Debug\ClassesDrill.pdb
